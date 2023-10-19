@@ -1,6 +1,6 @@
-# Breast Cancer Prediction
+# Cancer Cell Classifier
 
-![Screenshot 2023-05-20 at 5 02 36 PM](https://github.com/AkhilRD/Cancer-Prediction-Streamlit/assets/105431583/d88a2de0-d873-4c44-b561-4bfa8227c1d1)
+
 
 - [Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data). 
 - The dataset can be found in folder `data`
@@ -45,7 +45,7 @@ It imports the necessary dependencies, including Streamlit for creating the web 
 
 Note: This block of CSS code in `assets/style.css` defines some custom styles that are used in the Streamlit application for breast cancer prediction.
 
-### [App Link](https://cancer-cell-classifier.streamlit.app/)
+### [App Link](https://cancercellclassifier.streamlit.app/)
 
 
 
